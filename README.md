@@ -252,6 +252,6 @@ Para dúvidas sobre esta análise ou discussão de alternativas, entre em contat
 
 ---
 
-*Documento gerado em: {{date}}*  
+*Documento gerado em: 27/08/2025* 
 *Versão: 1.0*  
 *Status: Análise Técnica Concluída*
